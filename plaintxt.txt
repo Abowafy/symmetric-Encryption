@@ -1,0 +1,1 @@
+This class consists exclusively of static methods for obtaining encoders and decoders for the Base64 encoding scheme. 
